@@ -1,0 +1,7 @@
+casino_bot/
+│
+├── bot.py
+├── config.py
+├── database.py
+├── requirements.txt
+└── cogs/
